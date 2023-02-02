@@ -8,9 +8,9 @@ Help()
 {
    # Display Help
    echo
-   echo "Anonymizer your IP jumper."
+   echo "Hoenir The Silent God."
    echo
-   echo "Syntax: ./anonymizer.sh -d {FOLDER}"
+   echo "Syntax: ./hoenir.sh -d {FOLDER}"
    echo
    echo "options:"
    echo "d     Folder containing the .ovpn file to use as rotation."
